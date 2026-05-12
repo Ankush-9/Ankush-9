@@ -64,4 +64,4 @@ I am interested in collaborating on DevOps and backend projects and continuously
 
 ## Profile Views
 
-[![](https://visitcount.itsvg.in/api?id=Ankush-9&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=Ankush-9&color=blue&style=flat-square)
