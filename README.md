@@ -12,6 +12,7 @@ I am interested in collaborating on DevOps and backend projects and continuously
 ## 🌐 Socials:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/about_ankush)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://in.linkedin.com/in/ankush-walia09)
 
 
 ---
