@@ -8,7 +8,7 @@
 
 💡 I enjoy building production-ready applications and deployment pipelines while continuously learning modern DevOps practices and backend technologies.
 
-- 🌱 Currently learning **Kubernetes, Terraform, GitOps, and AWS**
+- 🌱 Currently learning **Kubernetes, Terraform, Jenkins, and AWS**
 - 💻 Building backend applications using **Java & Spring Boot**
 - ☁️ Exploring cloud-native technologies and CI/CD pipelines
 - 🤝 Open to collaborating on **DevOps** and **Backend** projects
