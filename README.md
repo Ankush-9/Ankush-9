@@ -2,7 +2,7 @@
 
 ## 💫 About Me
 
-🎓 **B.Tech in Computer Science & Engineering (3rd Year)** at **HPU UIT**
+🎓 **B.Tech in Computer Science & Engineering (4th Year)** at **HPU UIT**
 
 🚀 Passionate about **DevOps**, **Cloud**, and **Backend Development**.
 
